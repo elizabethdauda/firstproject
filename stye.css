@@ -1,0 +1,30 @@
+.header{
+        color: red;
+     }
+     
+#header2{
+        color: goldenrod;
+     }
+     body {
+        background-color: gold
+
+
+
+
+}
+body {
+        background-image: url("horticulturist.jpeg");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        min-height: 100vh;
+        margin: 0;
+        padding: 200pxtext-align: center
+     }
+     h3{
+        color: #a5d6a7;
+     }
+        /* list styling */
+     .horticulturist-list {
+        
+     }

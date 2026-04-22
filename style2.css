@@ -1,0 +1,44 @@
+.landing page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+}
+body{
+    font-family: 'Arial', sans-serif;
+    background-color: wheat;
+    color: #333;
+    
+    
+}
+
+.hero{
+    div{
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+}
+nav ul{
+    display: flex;
+    gap: 20px;
+    padding-top: 0cap;
+    margin: 20px 0;
+}
+nav ul a{
+    text-decoration: none;
+    color:rgb(233, 11, 29);
+    font-weight: bold;
+    padding-top: 10px;
+    font-size: 30px;
+    background-position: right top;
+}
+.navlinks{
+    display: flexbox;
+    gap: 20px;
+    padding-top: 0cap;
+}
+    
+
+

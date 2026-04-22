@@ -1,0 +1,8 @@
+#STRUCTURE WEB PAGE
+
+HEADER
+nav
+section
+article
+footer
+aside
